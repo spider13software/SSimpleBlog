@@ -1,0 +1,22 @@
+{
+  "name": "ssimpleblog",
+  "version": "0.1.1",
+  "description": "SSimpleBlog - Node.js Blog Engine",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spider13software/SSimpleBlog.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "spider13",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spider13software/SSimpleBlog/issues"
+  },
+  "homepage": "https://github.com/spider13software/SSimpleBlog#readme"
+}
